@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "surbhibhosle.com",
     "description": "",
-    "home_page_url": "https://www.surbhibhosle.com",
-    "feed_url": "https://www.surbhibhosle.com/feed.json",
+    "home_page_url": "https://surbhibhosle.com",
+    "feed_url": "https://surbhibhosle.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Surbhi Bhosle"
     },
     "items": [
         {
-            "id": "https://www.surbhibhosle.com/test-post.html",
-            "url": "https://www.surbhibhosle.com/test-post.html",
+            "id": "https://surbhibhosle.com/test-post.html",
+            "url": "https://surbhibhosle.com/test-post.html",
             "title": "Test Post",
             "summary": "With Test Infromation",
             "content_html": "<p>With Test Infromation</p>",
