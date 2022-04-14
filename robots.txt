@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://surbhi-bhosle.github.io/surbhibhosle.com/sitemap.xml
+Sitemap: https://www.surbhibhosle.com/sitemap.xml
