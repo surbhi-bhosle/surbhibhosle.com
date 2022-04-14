@@ -1,2 +1,0 @@
-# surbhibhosle.com
-Personal Website
