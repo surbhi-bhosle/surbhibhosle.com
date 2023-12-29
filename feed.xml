@@ -3,7 +3,7 @@
     <title>Surbhi Bhosle</title>
     <link href="https://surbhibhosle.com/feed.xml" rel="self" />
     <link href="https://surbhibhosle.com" />
-    <updated>2023-12-29T11:46:51+05:30</updated>
+    <updated>2023-12-29T19:30:43+05:30</updated>
     <author>
         <name>Surbhi R. Bhosle</name>
     </author>
@@ -65,7 +65,7 @@
         <id>https://surbhibhosle.com/surbhi-r-bhosle/</id>
         <media:content url="https://surbhibhosle.com/media/posts/1/WhatsApp-Image-2023-12-28-at-9.38.55-AM-1.jpg" medium="image" />
 
-        <updated>2023-12-29T11:46:51+05:30</updated>
+        <updated>2023-12-29T19:30:43+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://surbhibhosle.com/media/posts/1/WhatsApp-Image-2023-12-28-at-9.38.55-AM-1.jpg" alt="" />
@@ -81,20 +81,16 @@
 <h4>"The High-Performance Blueprint – Strategies for Sustainable Success in Modern Organizations"</h4>
 <p>"Discover actionable strategies for building resilient and high-performing organizations in today's dynamic business landscape."</p>
 <p><a href="https://surbhibhosle.com/the-high-performance-blueprint/" class="btn" style="background: bisque;">Explore the Book</a></p>
-<p> </p>
 <!-- Your existing content -->
-<h1>Welcome to My Website</h1>
-<p>This is the existing content on your website.</p>
-<!-- Inserting a new block -->
+<p><span style="color: var(--headings-color); font-family: var(--font-base); font-size: 1.60181em; font-weight: var(--font-weight-bold); letter-spacing: var(--letter-spacing);">Complimentary Sneak Peek</span></p>
 <div class="new-block">
-<h2>Complimentary Sneak Peek</h2>
 <p>Join our exclusive mailing list and receive the first chapter of [Book Title] absolutely FREE.</p>
 <!-- Embedding Typeform -->
 <div data-tf-live="01HJT20H6AS7T7BWG6FS799VN6"> </div>
 <script src="//embed.typeform.com/next/embed.js"></script>
 <!-- End of Typeform embedding --></div>
 <!-- More existing content -->
-<p>More content here...</p>
+<p> </p>
             ]]>
         </content>
     </entry>
