@@ -1,0 +1,4 @@
+baseURL = 'https://surbhibhosle.com/'
+languageCode = 'en-us'
+title = 'Surbhi Bhosle'
+theme = 'ananke'
