@@ -1,8 +1,12 @@
-+++
-title = 'The High Performance Blueprint: Strategies for Sustainable Success in Modern Organizations'
-date = 2023-12-31T15:26:05+05:30
-draft = false
-+++
+---
+title: The High Performance Blueprint
+description: Strategies for Sustainable Success in Modern Organizations
+date: "2023-12-26T19:47:09+02:00"
+jobDate: 2023
+work: [HR, Book]
+thumbnail: the-high-performance-blueprint/book-cover.png
+---
+
 In the dynamic business landscape of today, organizations face unprecedented challenges in achieving and sustaining high performance. 'The High Performance Blueprint' emerges as your definitive guide—a meticulously crafted roadmap designed to navigate these challenges and cultivate a resilient, high-performance organization within the evolving business sphere. This comprehensive resource extensively covers every facet of achieving excellence such as:
 
 - Effective People Management: Learn to attract, develop, and retain top talent while fostering a high-performance work culture.
