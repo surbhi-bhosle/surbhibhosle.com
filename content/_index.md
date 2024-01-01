@@ -14,8 +14,6 @@ Beyond her writing prowess, Surbhi's professional journey includes hands-on expe
 
 [Grab your copy now!](https://mybook.to/HPOBlueprint)
 
-#### [Explore 'The High-Performance Blueprint'](/portfolio/the-high-performance-blueprint/)
-
 {{< unsafe >}}
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScBVDTTXEOi-21_PoCDbC88xABzA6KwO_cAG1g-INZbpThiEg/viewform?embedded=true" width="640" height="510" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 {{< /unsafe >}}
