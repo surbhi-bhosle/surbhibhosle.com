@@ -35,10 +35,6 @@ Ready to unlock the secrets of high-performance organizations?
 
 [Grab your copy now!](https://mybook.to/HPOBlueprint)
 
-### Complimentary Sneak Peek
-
-Join our exclusive mailing list and receive the first chapter of 'The High Performance Blueprint' absolutely FREE.
-
 {{< unsafe >}}
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScBVDTTXEOi-21_PoCDbC88xABzA6KwO_cAG1g-INZbpThiEg/viewform?embedded=true" width="640" height="510" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 {{< /unsafe >}}
