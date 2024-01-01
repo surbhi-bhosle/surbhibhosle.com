@@ -1,7 +1,7 @@
 +++
 title = 'About Surbhi'
 date = 2023-12-31T15:26:05+05:30
-draft = true
+draft = false
 +++
 Surbhi is a distinguished author and content writer specializing in business and Human Resources (HR) content with over six years of dedicated experience in this dynamic field. Holding a Master's Degree in Human Resources, Surbhi has collaborated extensively with diverse clients, contributing thoughtfully researched articles focusing on the intricate realm of human resources and the crucial elements of fostering high-performance organizations.
 
