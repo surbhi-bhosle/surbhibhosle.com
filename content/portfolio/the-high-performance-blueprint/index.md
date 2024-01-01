@@ -5,6 +5,7 @@ date: "2023-12-26T19:47:09+02:00"
 jobDate: 2023
 work: [HR, Book]
 thumbnail: the-high-performance-blueprint/book-cover.png
+projectUrl: https://mybook.to/HPOBlueprint
 ---
 
 In the dynamic business landscape of today, organizations face unprecedented challenges in achieving and sustaining high performance. 'The High Performance Blueprint' emerges as your definitive guide—a meticulously crafted roadmap designed to navigate these challenges and cultivate a resilient, high-performance organization within the evolving business sphere. This comprehensive resource extensively covers every facet of achieving excellence such as:
