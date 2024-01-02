@@ -12,7 +12,7 @@ Beyond her writing prowess, Surbhi's professional journey includes hands-on expe
 
 "Discover actionable strategies for building resilient and high-performing organizations in today's dynamic business landscape."
 
-[Grab your copy now!](https://mybook.to/HPOBlueprint)
+[Grab your copy now!](https://www.amazon.com/dp/B0CR1FJB3F?&_encoding=UTF8&tag=surbhibhosle-20&linkCode=ur2&linkId=a9c47eb6c6d944e2e731caf109ec56d8&camp=1789&creative=9325)
 
 {{< unsafe >}}
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScBVDTTXEOi-21_PoCDbC88xABzA6KwO_cAG1g-INZbpThiEg/viewform?embedded=true" width="640" height="510" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
