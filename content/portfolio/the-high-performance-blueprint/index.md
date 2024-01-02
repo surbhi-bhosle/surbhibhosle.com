@@ -3,7 +3,7 @@ title: The High Performance Blueprint
 description: Strategies for Sustainable Success in Modern Organizations
 date: "2023-12-26T19:47:09+02:00"
 jobDate: 2023
-work: [HR, Book]
+work: [Organizational Management, HR Management, Book]
 thumbnail: the-high-performance-blueprint/book-cover.png
 projectUrl: https://mybook.to/HPOBlueprint
 ---
