@@ -4,7 +4,7 @@ description: Strategies for Sustainable Success in Modern Organizations
 date: "2023-12-26T19:47:09+02:00"
 jobDate: 2023
 work: [Organizational Management, HR Management, Book]
-thumbnail: the-high-performance-blueprint/book-cover.png
+thumbnail: (https://read.amazon.in/kp/embed?asin=B0CQZT1WTH&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_K9VB0SZ37B3GJQ1SEKGJ&tag=surbhibhosle-20)
 projectUrl: https://mybook.to/HPOBlueprint
 ---
 
