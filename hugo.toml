@@ -52,6 +52,7 @@ pygmentsCodeFences=true
   apple_touch_icon = "/assets/apple_touch_icon.png" 
   safari_pinned_tab = "/assets/apple_touch_icon.png" 
   customCSS = ""
+  disableFingerprinting = true
 
 [params.social]
   github = "https://github.com/surbhi-bhosle"
